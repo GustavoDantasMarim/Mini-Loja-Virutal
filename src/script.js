@@ -47,8 +47,6 @@ atualizarCarrinho = () => {
     })
 }
 
-
-
 limparCarrinho = () => {
     var containerCarrinho = document.getElementById('carrinho')
     containerCarrinho.innerHTML = ""
