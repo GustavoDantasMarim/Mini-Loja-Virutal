@@ -1,0 +1,83 @@
+.intro {
+    display: table;
+    width: 100%;
+    height: 100vh;
+    /* padding: 100px 0; */
+    color: white;
+    background: url('/images/background.png') no-repeat bottom center scroll;
+    background-position: 30% 45%;
+    background-size: cover;
+  }
+
+h2{
+    color: #fff;
+    font-family: 'Candara';
+    letter-spacing: 5px;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 2em;
+    text-align: center;
+}
+
+p {
+    letter-spacing: 5px;
+    text-align:center ;
+    background: #069cc2;
+    font-family: 'Candara';
+    font-size: 1.5em;
+    border-radius: 820px;
+    padding: 4px;
+    border:10px solid;
+}
+
+button {
+    text-align: center;
+    background: red;
+    border-radius: 6px;
+    padding: 15px; 
+    cursor: pointer; 
+    color: #fff; 
+    border: none; 
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+#botaoLimpar {
+    text-align: center;
+}
+
+#botaoAdicionar {
+    background-color: greenyellow;
+    color: black;
+    font-family: 'Candara';
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 80px;
+    padding: 15px;
+}
+
+#produtos {
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2%;
+    display: flex;
+}
+
+#carrinho {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2%;
+    display: block;
+}
+
+.produto-single {
+    width: 33.3%;
+    padding: 0.20px;
+}
+
+img {
+    height: 300px;
+    width: 260px ;
+}
