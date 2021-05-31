@@ -2,7 +2,6 @@
 <p align="center">Mini loja virtual com JavaScript puro</p>
 <hr>
 
-<h3> Sobre</h3>
 <p align="center">
  <a href="#status">Status</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
@@ -11,6 +10,7 @@
  <a href="#mencaoHonrosa">Menção Honrosa</a> • 
  <a href="#autor">Autor</a>
 </p>
+<hr>
 
 <h4 id="status">🚧 Loja Virtual 🚀 em construção... 🚧</h4>
 <p>Aplicação front-end simulando uma mini loja virtual, com uma vitrine de produtos e um carrinho de compras que exibe a quantidade de elementos adicionados.
