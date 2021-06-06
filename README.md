@@ -46,7 +46,7 @@ Projeto inspirado no [tutorial](https://www.youtube.com/watch?v=wG65FdU-Yos) do 
 
 <h4 id="autor">Autor</h4>
 
-[@GustavoDantasMarim](https://github.com/GustavoDantasMarim)
+[@GustavoDantasMarim](https://github.com/gustavomarim)
 
 
 
