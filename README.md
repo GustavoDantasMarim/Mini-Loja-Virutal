@@ -44,9 +44,18 @@ Ferramentas utilizadas na construção do projeto:
 Projeto inspirado no [tutorial](https://www.youtube.com/watch?v=wG65FdU-Yos) do Canal do Youtube do :point_right: [Danki Code](https://www.youtube.com/c/DankiCode) :point_left:
 <hr>
 
-<h4 id="autor">Autor</h4>
+### Autor
 
-[@gustavomarim](https://github.com/gustavomarim)
+<a href="https://github.com/gustavomarim">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66189039?s=400&u=491817b0d3a8d48be60c450631a950c9d49154b2&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Gustavo Dantas</b></sub></a> <a href="https://github.com/gustavomarim" title="GitHub">🚀</a>
+
+
+Feito com ❤️ por Gustavo Dantas 👋🏽
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodantasmarim/)](https://www.linkedin.com/in/gustavodantasmarim/) 
+ [![Outlook Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guuhdantaas247@gmail.com)](mailto:guuhdantaas247@gmail.com)
 
 
 
